@@ -2,4 +2,4 @@
 
 echo "Hello Git Practice"
 
-
+echo "Second line added"
